@@ -8,8 +8,7 @@
         },
         {
           "text": "“Play is older than culture, for culture, however\ninadequately defined, always presupposes human society, and animals have not\nwaited for man to teach them their playing” ",
-          "italic": true,
-          "textSize": "heading-one"
+          "italic": true
         }
       ],
       "align": "center"
@@ -18,20 +17,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(Johan Huizinga, ",
-          "textSize": "heading-one"
+          "text": "(Johan Huizinga, "
         },
         {
           "text": "Homo Ludens",
-          "italic": true,
-          "textSize": "heading-one"
+          "italic": true
         },
         {
-          "text": ")",
-          "textSize": "heading-one"
-        },
-        {
-          "text": "\n"
+          "text": ")\n"
         }
       ],
       "align": "center"
@@ -125,6 +118,6 @@
   "slug": "evolving-games",
   "created_at": "2026-06-18T19:01:44.631Z",
   "created_by": "AbbieHartman",
-  "updated_at": "2026-06-18T19:43:30.742Z",
+  "updated_at": "2026-06-18T19:45:55.000Z",
   "updated_by": "AbbieHartman"
 }
