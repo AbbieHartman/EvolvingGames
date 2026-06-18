@@ -1,0 +1,161 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mehen ",
+          "italic": true
+        },
+        {
+          "text": "is thought to be a board game played by ancient Egyptians during the First to Sixth Dynasties. Various types of "
+        },
+        {
+          "text": "Mehen ",
+          "italic": true
+        },
+        {
+          "text": "boards have been found throughout different tombs, suggesting that it was a popular game."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/-3000_Abydos_Spiel_der_Schlange_Mehen_anagoria.JPG",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "a3ea86aa-a0d5-4c31-9534-0b11e81bbeab",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "However, while a cuneiform was found that enbaled Irving Finkel to deduce the rules for the "
+        },
+        {
+          "type": "link",
+          "url": "https://abbiehartman.github.io/EvolvingGamesExhibition/pages/the-royal-game-of-ur/",
+          "children": [
+            {
+              "text": "Royal Game of Ur",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": ", there have been no explanatory texts found about the rules of "
+        },
+        {
+          "text": "Mehen. ",
+          "italic": true
+        },
+        {
+          "text": "As a result, the actual rules for"
+        },
+        {
+          "text": " Mehen",
+          "italic": true
+        },
+        {
+          "text": " have been extensively debated, with a "
+        },
+        {
+          "type": "link",
+          "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://more.bham.ac.uk/birminghamegyptology/wp-content/uploads/sites/54/2024/09/masters_mehen_final.pdf",
+          "children": [
+            {
+              "text": "2024 reappraisal undertaken by James Masters "
+            }
+          ]
+        },
+        {
+          "text": "to try and synthesis all available evidence to create a standard ruleset. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Mehen",
+  "parent": "8fbcb084-a66d-461a-95b8-3293767a1649",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "mehen",
+  "created_at": "2026-06-18T19:05:13.673Z",
+  "created_by": "AbbieHartman",
+  "updated_at": "2026-06-18T19:05:13.673Z",
+  "updated_by": "AbbieHartman"
+}
