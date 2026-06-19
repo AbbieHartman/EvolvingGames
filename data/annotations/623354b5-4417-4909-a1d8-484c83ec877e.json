@@ -70,7 +70,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The British Museum's catalogue entry for the original object can be found here: https://www.britishmuseum.org/collection/object/W_1928-1009-378"
+              "text": "The British Museum's catalogue entry for the original object can be "
+            },
+            {
+              "text": "found here",
+              "link": "https://www.britishmuseum.org/collection/object/W_1928-1009-378"
             }
           ]
         }
