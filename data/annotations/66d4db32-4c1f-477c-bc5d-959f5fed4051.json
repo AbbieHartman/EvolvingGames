@@ -70,6 +70,56 @@
         }
       ],
       "uuid": "f1569285-c0c3-4d63-9f83-440cb2115c76"
+    },
+    {
+      "start_time": 20,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mehen, "
+            },
+            {
+              "text": "the god,",
+              "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jstor.org/stable/pdf/40000072.pdf?refreqid=fastly-default%3Ac70bf04e89b40d0757cdb88c5424d2dc&ab_segments=&initiator=&acceptTC=1"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "Mehen",
+              "italic": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "the boardgame",
+              "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1wqtxts1xzle7.cloudfront.net/118283789/Masters_IntEg_v3.2_MehenAncient_full_size_no_subsets_adobe_min_compression-libre.pdf?1726659411=&response-content-disposition=inline%3B+filename%3DMehen_The_Ancient_Egyptian_Serpent_Game.pdf&Expires=1781881769&Signature=gyGyPj99IDIXUqlG~eVCvDgERtpycxc1oRQ32jd-dr-Y8ZHNniIxOXCzFJaiIHPGSHaXgUYx1~HybkoTvVDsG8q~fsC9d0FbpTk~VM5Sfz5wdpIWQZBb~tvIfuyeIbwDoLB9AGIv7C4GvtgOBMoLuSEs1PP5ZCV9HGjz0XQJgBpqLKR-BInqBdvgMkK-ErY3msU59x6Xz34PuEMJC2KqrF1VOK15b35VRLgVo6UsJK72370b8XncYAKTcDU1tNJLLW~NQbF-EC6lAUPYHkp04Iddrky~dOijY2qrS4tgngeH1PQvm0u6NBaGaOsS7wY063X3KZH~wVBdl7HnnudivA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+            },
+            {
+              "text": " have both being extensively written about by Egyptologists and understading both, particularly in relation to each other, provides significant insight into the beliefs and understandings of the ancient Egyptians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historiography",
+          "tag": "historical context"
+        },
+        {
+          "category": "Contextual information",
+          "tag": "Egypt"
+        },
+        {
+          "category": "Scholars",
+          "tag": "further research"
+        }
+      ],
+      "uuid": "6ce50aeb-f9a4-441f-88a7-367640239679"
     }
   ],
   "set": "Default",
