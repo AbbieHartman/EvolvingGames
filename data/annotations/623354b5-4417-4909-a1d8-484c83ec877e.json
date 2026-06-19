@@ -308,7 +308,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The British Museum's catalogue entry points out some issues with how the original object has previously been constructed \"An important point to note, often forgotten, is that this was a hollow box and not a solid board: it was therefore a much more delicate item than the present reconstruction suggests.\" This entry, found here https://www.britishmuseum.org/collection/object/W_1928-1009-378, also notes several similar objects found in other ancient Mesopotamian grave sites."
+              "text": "The British Museum's catalogue entry points out some issues with how the original object has previously been constructed \"An important point to note, often forgotten, is that this was a hollow box and not a solid board: it was therefore a much more delicate item than the present reconstruction suggests.\" This entry, "
+            },
+            {
+              "text": "found here",
+              "link": "https://www.britishmuseum.org/collection/object/W_1928-1009-378"
+            },
+            {
+              "text": ", also notes several similar objects found in other ancient Mesopotamian grave sites."
             }
           ]
         }
