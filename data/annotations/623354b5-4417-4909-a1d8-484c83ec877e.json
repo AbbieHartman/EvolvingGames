@@ -103,7 +103,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cuneiform tables have proved invaluable to developing our understanding of Sumerian culture, and Mesopotamia more broadly. Finkle is a specialist in cunieform, and taught Tom Scott and Matt Grey how to write their names in cunieform: https://www.youtube.com/watch?v=zOwP0KUlnZg. The link to the cuneiform object they are discussing can be found here: https://www.britishmuseum.org/collection/object/W_Rm-III-6-b"
+              "text": "Cuneiform tables have proved invaluable to developing our understanding of Sumerian culture, and Mesopotamia more broadly. Finkle is a specialist in cunieform, and taught "
+            },
+            {
+              "text": "Tom Scott and Matt Grey how to write their names in cunieform",
+              "link": "https://www.youtube.com/watch?v=zOwP0KUlnZg"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More information about the cuneiform object they are discussing can be "
+            },
+            {
+              "text": "found here",
+              "link": "https://www.britishmuseum.org/collection/object/W_Rm-III-6-b"
             }
           ]
         }
