@@ -264,7 +264,26 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Backgammon is another game originating in the action world. It possibly traces it's origins to the ancient Egyptian game Senet, which, along with Mehen (discussed on this page), was found in many ancient tombs"
+              "text": "Backgammon is another game originating in the action world. It possibly traces it's origins to the ancient Egyptian game "
+            },
+            {
+              "text": "Senet,",
+              "italic": true
+            },
+            {
+              "text": " which, along with"
+            },
+            {
+              "text": " ",
+              "link": "https://abbiehartman.github.io/EvolvingGames/pages/mehen/"
+            },
+            {
+              "link": "https://abbiehartman.github.io/EvolvingGames/pages/mehen/",
+              "text": "Mehen,",
+              "italic": true
+            },
+            {
+              "text": " was found in many ancient tombs"
             }
           ]
         }
