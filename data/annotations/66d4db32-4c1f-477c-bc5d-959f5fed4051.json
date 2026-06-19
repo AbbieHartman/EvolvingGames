@@ -17,7 +17,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Contextual information",
+          "tag": "Egypt"
+        }
+      ],
       "uuid": "950b3ad8-ee95-44ab-99ff-8ffa4d2ff7eb"
     }
   ],
