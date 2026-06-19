@@ -45,6 +45,31 @@
         }
       ],
       "uuid": "ffee2757-c506-410d-866e-dbb4aac64d4f"
+    },
+    {
+      "start_time": 13,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pathway of this game play is similar to games like "
+            },
+            {
+              "text": "the Royal Game of Ur",
+              "link": "https://abbiehartman.github.io/EvolvingGames/pages/the-royal-game-of-ur/"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Game elements",
+          "tag": "game rules"
+        }
+      ],
+      "uuid": "f1569285-c0c3-4d63-9f83-440cb2115c76"
     }
   ],
   "set": "Default",
