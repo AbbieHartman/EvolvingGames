@@ -37,7 +37,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Dr Irving Finkel is Assistant Keeper of the Ancient Mesopotamian script, languages and cultures department at the British Museum. This tone of joke is characteristic of Finkle. More information on Finkel can be found here: "
+              "text": "Dr Irving Finkel is Assistant Keeper of the Ancient Mesopotamian script, languages and cultures department at the British Museum. This tone of joke is characteristic of Finkle. More information on Finkel can be "
+            },
+            {
+              "text": "found here",
+              "link": "https://theartssociety.org/arts-news-features/arts-society-lecturer-dr-irving-finkel-my-life-art"
             }
           ]
         }
