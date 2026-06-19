@@ -24,6 +24,27 @@
         }
       ],
       "uuid": "950b3ad8-ee95-44ab-99ff-8ffa4d2ff7eb"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"coiled one\" refers to the god Mehen, would played an important role in ancient Egyptian funerary beliefs. Mehen was said to help protect the deceased as they journed through the underworld"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historiography",
+          "tag": "historical context"
+        }
+      ],
+      "uuid": "ffee2757-c506-410d-866e-dbb4aac64d4f"
     }
   ],
   "set": "Default",
